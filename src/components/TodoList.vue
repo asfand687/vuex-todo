@@ -1,4 +1,5 @@
 <template>
+  <!-- Hello World -->
   <div>
     <input
       type="text"
